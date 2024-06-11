@@ -10,7 +10,20 @@ To use this project, follow these steps:
 - Java 8 or higher installed on your system
 - Maven for building and managing dependencies
 
-### Installation
+### Steps
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Cade-hub/NumberRangeSummarizer.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd NumberRangeSummarizer
+
+3. Compile and test the project:
+   ```bash
+   mvn compile
+   mvn test
+
+4. Cleaning the project:
+   ```bash
+   mvn clean
