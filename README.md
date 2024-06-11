@@ -27,3 +27,6 @@ To use this project, follow these steps:
 4. Cleaning the project:
    ```bash
    mvn clean
+
+## Tests
+The tests are built with junit 4.11 and cover a range of edge cases
