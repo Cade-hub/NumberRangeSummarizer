@@ -1,7 +1,7 @@
 # Number Range Summarizer
 
 ## Overview
-The Number Range Summarizer is a Java project that provides functionality to produce a comma-delimited list of numbers, grouping consecutive numbers into ranges. This project implements an interface that defines methods to collect a list of integers from a comma-separated string and to summarize the list by grouping consecutive numbers into ranges.
+The Number Range Summarizer is a Java project that provides functionality to produce a comma-delimited list of numbers, grouping consecutive numbers into ranges. This project implements an interface that defines methods to collect a list of integers from a string and to summarize the list accordingly.
 
 ## Setup
 To use this project, follow these steps:
